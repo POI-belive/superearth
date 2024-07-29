@@ -1,6 +1,6 @@
 from PyQt5.QtWidgets import QApplication,QMainWindow
 from main_window import Ui_MainWindow
-from CustomMessageBox import CustomMessageBox
+from Script.CustomMessageBox import CustomMessageBox
 
 # 注意 这里选择的父类 要和你UI文件窗体一样的类型
 # 主窗口是 QMainWindow， 表单是 QWidget， 对话框是 QDialog
