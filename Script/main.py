@@ -19,14 +19,17 @@ class MainWindow(QMainWindow):
 
     def showDialog(self):
         w = CustomMessageBox(self)
-        if w.exec():
+        if w.show():
             print(w.urlLineEdit.text())
 
         
         # 使用界面定义的控件，也是从ui里面访问
         #self.ui.webview.load('http://www.baidu.com')
 
-app = QApplication([])
-mainw = MainWindow()
-mainw.show()
-app.exec()
+try:
+    app = QApplication([])
+    mainw = MainWindow()
+    mainw.show()
+    app.exec()
+except Exception as e:
+    print(f"程序异常: {e}")
