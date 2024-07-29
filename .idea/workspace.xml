@@ -5,9 +5,262 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fb2ca498-1f98-4d1c-8fd3-8a6696db21d9" name="更改" comment="其他的一些模型文件">
+      <change afterPath="$PROJECT_DIR$/GPT-SoVITS-Inference/GPT-SoVITS-Inference/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GPT-SoVITS-Inference/GPT-SoVITS-Inference/0 一键启动脚本/0 一键更新项目.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GPT-SoVITS-Inference/GPT-SoVITS-Inference/0 一键启动脚本/1 一键更新本项目所需要的依赖.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GPT-SoVITS-Inference/GPT-SoVITS-Inference/0 一键启动脚本/10 启动模型管理界面（可选）.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GPT-SoVITS-Inference/GPT-SoVITS-Inference/0 一键启动脚本/11 启动原项目的训练界面（小白别开，请根据页面上的文档链接自行研究，推理群不包解答）.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GPT-SoVITS-Inference/GPT-SoVITS-Inference/0 一键启动脚本/3 启动GSVI.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GPT-SoVITS-Inference/GPT-SoVITS-Inference/0 一键启动脚本/5 启动纯粹的后端（不推荐）.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GPT-SoVITS-Inference/GPT-SoVITS-Inference/0 一键启动脚本/999 强制更新：会覆盖你的设置，慎用，和0功能类似.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GPT-SoVITS-Inference/GPT-SoVITS-Inference/0 一键启动脚本/Cfg/About.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GPT-SoVITS-Inference/GPT-SoVITS-Inference/0 一键启动脚本/Cfg/Cfg.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GPT-SoVITS-Inference/GPT-SoVITS-Inference/0 一键启动脚本/GPT-soVITS Start.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GPT-SoVITS-Inference/GPT-SoVITS-Inference/0 一键启动脚本/说明.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GPT-SoVITS-Inference/GPT-SoVITS-Inference/Docker/damo.sha256" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GPT-SoVITS-Inference/GPT-SoVITS-Inference/Docker/download.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GPT-SoVITS-Inference/GPT-SoVITS-Inference/Docker/download.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GPT-SoVITS-Inference/GPT-SoVITS-Inference/Docker/links.sha256" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GPT-SoVITS-Inference/GPT-SoVITS-Inference/Docker/links.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GPT-SoVITS-Inference/GPT-SoVITS-Inference/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GPT-SoVITS-Inference/GPT-SoVITS-Inference/GPT_SoVITS/AR/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GPT-SoVITS-Inference/GPT-SoVITS-Inference/GPT_SoVITS/AR/data/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GPT-SoVITS-Inference/GPT-SoVITS-Inference/GPT_SoVITS/AR/data/bucket_sampler.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GPT-SoVITS-Inference/GPT-SoVITS-Inference/GPT_SoVITS/AR/data/data_module.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GPT-SoVITS-Inference/GPT-SoVITS-Inference/GPT_SoVITS/AR/data/dataset.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GPT-SoVITS-Inference/GPT-SoVITS-Inference/GPT_SoVITS/AR/models/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GPT-SoVITS-Inference/GPT-SoVITS-Inference/GPT_SoVITS/AR/models/t2s_lightning_module.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GPT-SoVITS-Inference/GPT-SoVITS-Inference/GPT_SoVITS/AR/models/t2s_lightning_module_onnx.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GPT-SoVITS-Inference/GPT-SoVITS-Inference/GPT_SoVITS/AR/models/t2s_model.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GPT-SoVITS-Inference/GPT-SoVITS-Inference/GPT_SoVITS/AR/models/t2s_model_batch_only.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GPT-SoVITS-Inference/GPT-SoVITS-Inference/GPT_SoVITS/AR/models/t2s_model_onnx.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GPT-SoVITS-Inference/GPT-SoVITS-Inference/GPT_SoVITS/AR/models/utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GPT-SoVITS-Inference/GPT-SoVITS-Inference/GPT_SoVITS/AR/modules/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GPT-SoVITS-Inference/GPT-SoVITS-Inference/GPT_SoVITS/AR/modules/activation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GPT-SoVITS-Inference/GPT-SoVITS-Inference/GPT_SoVITS/AR/modules/activation_onnx.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GPT-SoVITS-Inference/GPT-SoVITS-Inference/GPT_SoVITS/AR/modules/embedding.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GPT-SoVITS-Inference/GPT-SoVITS-Inference/GPT_SoVITS/AR/modules/embedding_onnx.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GPT-SoVITS-Inference/GPT-SoVITS-Inference/GPT_SoVITS/AR/modules/lr_schedulers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GPT-SoVITS-Inference/GPT-SoVITS-Inference/GPT_SoVITS/AR/modules/optim.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GPT-SoVITS-Inference/GPT-SoVITS-Inference/GPT_SoVITS/AR/modules/patched_mha_with_cache.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GPT-SoVITS-Inference/GPT-SoVITS-Inference/GPT_SoVITS/AR/modules/patched_mha_with_cache_onnx.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GPT-SoVITS-Inference/GPT-SoVITS-Inference/GPT_SoVITS/AR/modules/scaling.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GPT-SoVITS-Inference/GPT-SoVITS-Inference/GPT_SoVITS/AR/modules/transformer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GPT-SoVITS-Inference/GPT-SoVITS-Inference/GPT_SoVITS/AR/modules/transformer_onnx.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GPT-SoVITS-Inference/GPT-SoVITS-Inference/GPT_SoVITS/AR/text_processing/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GPT-SoVITS-Inference/GPT-SoVITS-Inference/GPT_SoVITS/AR/text_processing/phonemizer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GPT-SoVITS-Inference/GPT-SoVITS-Inference/GPT_SoVITS/AR/text_processing/symbols.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GPT-SoVITS-Inference/GPT-SoVITS-Inference/GPT_SoVITS/AR/utils/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GPT-SoVITS-Inference/GPT-SoVITS-Inference/GPT_SoVITS/AR/utils/initialize.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GPT-SoVITS-Inference/GPT-SoVITS-Inference/GPT_SoVITS/AR/utils/io.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GPT-SoVITS-Inference/GPT-SoVITS-Inference/GPT_SoVITS/TTS_infer_pack/TTS.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GPT-SoVITS-Inference/GPT-SoVITS-Inference/GPT_SoVITS/TTS_infer_pack/TextPreprocessor.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GPT-SoVITS-Inference/GPT-SoVITS-Inference/GPT_SoVITS/TTS_infer_pack/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GPT-SoVITS-Inference/GPT-SoVITS-Inference/GPT_SoVITS/TTS_infer_pack/text_segmentation_method.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GPT-SoVITS-Inference/GPT-SoVITS-Inference/GPT_SoVITS/configs/s1.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GPT-SoVITS-Inference/GPT-SoVITS-Inference/GPT_SoVITS/configs/s1big.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GPT-SoVITS-Inference/GPT-SoVITS-Inference/GPT_SoVITS/configs/s1big2.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GPT-SoVITS-Inference/GPT-SoVITS-Inference/GPT_SoVITS/configs/s1longer.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GPT-SoVITS-Inference/GPT-SoVITS-Inference/GPT_SoVITS/configs/s1mq.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GPT-SoVITS-Inference/GPT-SoVITS-Inference/GPT_SoVITS/configs/s2.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GPT-SoVITS-Inference/GPT-SoVITS-Inference/GPT_SoVITS/configs/train.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GPT-SoVITS-Inference/GPT-SoVITS-Inference/GPT_SoVITS/configs/tts_infer.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GPT-SoVITS-Inference/GPT-SoVITS-Inference/GPT_SoVITS/feature_extractor/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GPT-SoVITS-Inference/GPT-SoVITS-Inference/GPT_SoVITS/feature_extractor/cnhubert.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GPT-SoVITS-Inference/GPT-SoVITS-Inference/GPT_SoVITS/feature_extractor/whisper_enc.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GPT-SoVITS-Inference/GPT-SoVITS-Inference/GPT_SoVITS/inference_gui.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GPT-SoVITS-Inference/GPT-SoVITS-Inference/GPT_SoVITS/inference_webui.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GPT-SoVITS-Inference/GPT-SoVITS-Inference/GPT_SoVITS/inference_webui_old.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GPT-SoVITS-Inference/GPT-SoVITS-Inference/GPT_SoVITS/module/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GPT-SoVITS-Inference/GPT-SoVITS-Inference/GPT_SoVITS/module/attentions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GPT-SoVITS-Inference/GPT-SoVITS-Inference/GPT_SoVITS/module/attentions_onnx.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GPT-SoVITS-Inference/GPT-SoVITS-Inference/GPT_SoVITS/module/commons.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GPT-SoVITS-Inference/GPT-SoVITS-Inference/GPT_SoVITS/module/core_vq.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GPT-SoVITS-Inference/GPT-SoVITS-Inference/GPT_SoVITS/module/data_utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GPT-SoVITS-Inference/GPT-SoVITS-Inference/GPT_SoVITS/module/losses.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GPT-SoVITS-Inference/GPT-SoVITS-Inference/GPT_SoVITS/module/mel_processing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GPT-SoVITS-Inference/GPT-SoVITS-Inference/GPT_SoVITS/module/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GPT-SoVITS-Inference/GPT-SoVITS-Inference/GPT_SoVITS/module/models_onnx.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GPT-SoVITS-Inference/GPT-SoVITS-Inference/GPT_SoVITS/module/modules.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GPT-SoVITS-Inference/GPT-SoVITS-Inference/GPT_SoVITS/module/mrte_model.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GPT-SoVITS-Inference/GPT-SoVITS-Inference/GPT_SoVITS/module/quantize.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GPT-SoVITS-Inference/GPT-SoVITS-Inference/GPT_SoVITS/module/transforms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GPT-SoVITS-Inference/GPT-SoVITS-Inference/GPT_SoVITS/my_utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GPT-SoVITS-Inference/GPT-SoVITS-Inference/GPT_SoVITS/onnx_export.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GPT-SoVITS-Inference/GPT-SoVITS-Inference/GPT_SoVITS/prepare_datasets/1-get-text.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GPT-SoVITS-Inference/GPT-SoVITS-Inference/GPT_SoVITS/prepare_datasets/2-get-hubert-wav32k.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GPT-SoVITS-Inference/GPT-SoVITS-Inference/GPT_SoVITS/prepare_datasets/3-get-semantic.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GPT-SoVITS-Inference/GPT-SoVITS-Inference/GPT_SoVITS/pretrained_models/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GPT-SoVITS-Inference/GPT-SoVITS-Inference/GPT_SoVITS/process_ckpt.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GPT-SoVITS-Inference/GPT-SoVITS-Inference/GPT_SoVITS/s1_train.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GPT-SoVITS-Inference/GPT-SoVITS-Inference/GPT_SoVITS/s2_train.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GPT-SoVITS-Inference/GPT-SoVITS-Inference/GPT_SoVITS/text/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GPT-SoVITS-Inference/GPT-SoVITS-Inference/GPT_SoVITS/text/chinese.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GPT-SoVITS-Inference/GPT-SoVITS-Inference/GPT_SoVITS/text/cleaner.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GPT-SoVITS-Inference/GPT-SoVITS-Inference/GPT_SoVITS/text/cmudict-fast.rep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GPT-SoVITS-Inference/GPT-SoVITS-Inference/GPT_SoVITS/text/cmudict.rep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GPT-SoVITS-Inference/GPT-SoVITS-Inference/GPT_SoVITS/text/engdict-hot.rep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GPT-SoVITS-Inference/GPT-SoVITS-Inference/GPT_SoVITS/text/engdict_cache.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GPT-SoVITS-Inference/GPT-SoVITS-Inference/GPT_SoVITS/text/english.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GPT-SoVITS-Inference/GPT-SoVITS-Inference/GPT_SoVITS/text/japanese.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GPT-SoVITS-Inference/GPT-SoVITS-Inference/GPT_SoVITS/text/namedict_cache.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GPT-SoVITS-Inference/GPT-SoVITS-Inference/GPT_SoVITS/text/opencpop-strict.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GPT-SoVITS-Inference/GPT-SoVITS-Inference/GPT_SoVITS/text/symbols.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GPT-SoVITS-Inference/GPT-SoVITS-Inference/GPT_SoVITS/text/tone_sandhi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GPT-SoVITS-Inference/GPT-SoVITS-Inference/GPT_SoVITS/text/zh_normalization/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GPT-SoVITS-Inference/GPT-SoVITS-Inference/GPT_SoVITS/text/zh_normalization/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GPT-SoVITS-Inference/GPT-SoVITS-Inference/GPT_SoVITS/text/zh_normalization/char_convert.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GPT-SoVITS-Inference/GPT-SoVITS-Inference/GPT_SoVITS/text/zh_normalization/chronology.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GPT-SoVITS-Inference/GPT-SoVITS-Inference/GPT_SoVITS/text/zh_normalization/constants.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GPT-SoVITS-Inference/GPT-SoVITS-Inference/GPT_SoVITS/text/zh_normalization/num.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GPT-SoVITS-Inference/GPT-SoVITS-Inference/GPT_SoVITS/text/zh_normalization/phonecode.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GPT-SoVITS-Inference/GPT-SoVITS-Inference/GPT_SoVITS/text/zh_normalization/quantifier.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GPT-SoVITS-Inference/GPT-SoVITS-Inference/GPT_SoVITS/text/zh_normalization/text_normlization.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GPT-SoVITS-Inference/GPT-SoVITS-Inference/GPT_SoVITS/utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GPT-SoVITS-Inference/GPT-SoVITS-Inference/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GPT-SoVITS-Inference/GPT-SoVITS-Inference/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GPT-SoVITS-Inference/GPT-SoVITS-Inference/Synthesizers/base/Base_TTS_Synthesizer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GPT-SoVITS-Inference/GPT-SoVITS-Inference/Synthesizers/base/Base_TTS_Task.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GPT-SoVITS-Inference/GPT-SoVITS-Inference/Synthesizers/base/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GPT-SoVITS-Inference/GPT-SoVITS-Inference/Synthesizers/base/config_utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GPT-SoVITS-Inference/GPT-SoVITS-Inference/Synthesizers/gsv_fast/GSV_Synthesizer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GPT-SoVITS-Inference/GPT-SoVITS-Inference/Synthesizers/gsv_fast/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GPT-SoVITS-Inference/GPT-SoVITS-Inference/Synthesizers/gsv_fast/configs/i18n/locale/en_US.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GPT-SoVITS-Inference/GPT-SoVITS-Inference/Synthesizers/gsv_fast/configs/i18n/locale/zh_CN.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GPT-SoVITS-Inference/GPT-SoVITS-Inference/Synthesizers/gsv_fast/configs/i18n/locale/zh_TW.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GPT-SoVITS-Inference/GPT-SoVITS-Inference/Synthesizers/gsv_fast/configs/params_config.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GPT-SoVITS-Inference/GPT-SoVITS-Inference/Synthesizers/gsv_fast/configs/ui_config.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GPT-SoVITS-Inference/GPT-SoVITS-Inference/Synthesizers/gsv_fast/gsv_config.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GPT-SoVITS-Inference/GPT-SoVITS-Inference/Synthesizers/gsv_fast/gsv_task.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GPT-SoVITS-Inference/GPT-SoVITS-Inference/Synthesizers/gsv_fast/ssml_dealer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GPT-SoVITS-Inference/GPT-SoVITS-Inference/Synthesizers/remote/Remote_Synthesizer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GPT-SoVITS-Inference/GPT-SoVITS-Inference/Synthesizers/remote/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GPT-SoVITS-Inference/GPT-SoVITS-Inference/Synthesizers/remote/configs/config.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GPT-SoVITS-Inference/GPT-SoVITS-Inference/Synthesizers/remote/configs/i18n/locale/en_US.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GPT-SoVITS-Inference/GPT-SoVITS-Inference/Synthesizers/remote/configs/i18n/locale/zh_CN.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GPT-SoVITS-Inference/GPT-SoVITS-Inference/Synthesizers/remote/configs/i18n/locale/zh_TW.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GPT-SoVITS-Inference/GPT-SoVITS-Inference/Synthesizers/remote/configs/params_config.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GPT-SoVITS-Inference/GPT-SoVITS-Inference/Synthesizers/remote/configs/ui_config.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GPT-SoVITS-Inference/GPT-SoVITS-Inference/Synthesizers/remote/remote_task.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GPT-SoVITS-Inference/GPT-SoVITS-Inference/api_doc.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GPT-SoVITS-Inference/GPT-SoVITS-Inference/app.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GPT-SoVITS-Inference/GPT-SoVITS-Inference/colab_webui.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GPT-SoVITS-Inference/GPT-SoVITS-Inference/common_config.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GPT-SoVITS-Inference/GPT-SoVITS-Inference/docker-compose.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GPT-SoVITS-Inference/GPT-SoVITS-Inference/dockerbuild.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GPT-SoVITS-Inference/GPT-SoVITS-Inference/docs/cn/Changelog_CN.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GPT-SoVITS-Inference/GPT-SoVITS-Inference/docs/cn/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GPT-SoVITS-Inference/GPT-SoVITS-Inference/docs/ja/Changelog_JA.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GPT-SoVITS-Inference/GPT-SoVITS-Inference/docs/ja/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GPT-SoVITS-Inference/GPT-SoVITS-Inference/docs/ko/Changelog_KO.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GPT-SoVITS-Inference/GPT-SoVITS-Inference/docs/ko/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GPT-SoVITS-Inference/GPT-SoVITS-Inference/docs/tr/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GPT-SoVITS-Inference/GPT-SoVITS-Inference/gpt-sovits_kaggle.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GPT-SoVITS-Inference/GPT-SoVITS-Inference/gsv_config.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GPT-SoVITS-Inference/GPT-SoVITS-Inference/i18n/locale/en_US.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GPT-SoVITS-Inference/GPT-SoVITS-Inference/i18n/locale/es_ES.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GPT-SoVITS-Inference/GPT-SoVITS-Inference/i18n/locale/fr_FR.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GPT-SoVITS-Inference/GPT-SoVITS-Inference/i18n/locale/it_IT.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GPT-SoVITS-Inference/GPT-SoVITS-Inference/i18n/locale/ja_JP.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GPT-SoVITS-Inference/GPT-SoVITS-Inference/i18n/locale/ko_KR.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GPT-SoVITS-Inference/GPT-SoVITS-Inference/i18n/locale/pt_BR.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GPT-SoVITS-Inference/GPT-SoVITS-Inference/i18n/locale/ru_RU.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GPT-SoVITS-Inference/GPT-SoVITS-Inference/i18n/locale/tr_TR.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GPT-SoVITS-Inference/GPT-SoVITS-Inference/i18n/locale/zh_CN.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GPT-SoVITS-Inference/GPT-SoVITS-Inference/i18n/locale/zh_HK.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GPT-SoVITS-Inference/GPT-SoVITS-Inference/i18n/locale/zh_SG.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GPT-SoVITS-Inference/GPT-SoVITS-Inference/i18n/locale/zh_TW.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GPT-SoVITS-Inference/GPT-SoVITS-Inference/install.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GPT-SoVITS-Inference/GPT-SoVITS-Inference/pure_api.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GPT-SoVITS-Inference/GPT-SoVITS-Inference/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GPT-SoVITS-Inference/GPT-SoVITS-Inference/src/api_utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GPT-SoVITS-Inference/GPT-SoVITS-Inference/src/common_config_manager.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GPT-SoVITS-Inference/GPT-SoVITS-Inference/tools/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GPT-SoVITS-Inference/GPT-SoVITS-Inference/tools/asr/config.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GPT-SoVITS-Inference/GPT-SoVITS-Inference/tools/asr/fasterwhisper_asr.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GPT-SoVITS-Inference/GPT-SoVITS-Inference/tools/asr/funasr_asr.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GPT-SoVITS-Inference/GPT-SoVITS-Inference/tools/asr/models/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GPT-SoVITS-Inference/GPT-SoVITS-Inference/tools/cmd-denoise.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GPT-SoVITS-Inference/GPT-SoVITS-Inference/tools/denoise-model/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GPT-SoVITS-Inference/GPT-SoVITS-Inference/tools/i18n/i18n.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GPT-SoVITS-Inference/GPT-SoVITS-Inference/tools/i18n/locale/en_US.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GPT-SoVITS-Inference/GPT-SoVITS-Inference/tools/i18n/locale/es_ES.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GPT-SoVITS-Inference/GPT-SoVITS-Inference/tools/i18n/locale/fr_FR.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GPT-SoVITS-Inference/GPT-SoVITS-Inference/tools/i18n/locale/it_IT.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GPT-SoVITS-Inference/GPT-SoVITS-Inference/tools/i18n/locale/ja_JP.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GPT-SoVITS-Inference/GPT-SoVITS-Inference/tools/i18n/locale/ko_KR.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GPT-SoVITS-Inference/GPT-SoVITS-Inference/tools/i18n/locale/ru_RU.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GPT-SoVITS-Inference/GPT-SoVITS-Inference/tools/i18n/locale/tr_TR.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GPT-SoVITS-Inference/GPT-SoVITS-Inference/tools/i18n/locale/zh_CN.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GPT-SoVITS-Inference/GPT-SoVITS-Inference/tools/i18n/locale/zh_HK.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GPT-SoVITS-Inference/GPT-SoVITS-Inference/tools/i18n/locale/zh_SG.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GPT-SoVITS-Inference/GPT-SoVITS-Inference/tools/i18n/locale/zh_TW.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GPT-SoVITS-Inference/GPT-SoVITS-Inference/tools/i18n/locale_diff.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GPT-SoVITS-Inference/GPT-SoVITS-Inference/tools/i18n/scan_i18n.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GPT-SoVITS-Inference/GPT-SoVITS-Inference/tools/my_utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GPT-SoVITS-Inference/GPT-SoVITS-Inference/tools/normalize_loudness.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GPT-SoVITS-Inference/GPT-SoVITS-Inference/tools/slice_audio.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GPT-SoVITS-Inference/GPT-SoVITS-Inference/tools/slicer2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GPT-SoVITS-Inference/GPT-SoVITS-Inference/tools/srt_slicer/i18n/locale/en_US.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GPT-SoVITS-Inference/GPT-SoVITS-Inference/tools/srt_slicer/i18n/locale/zh_CN.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GPT-SoVITS-Inference/GPT-SoVITS-Inference/tools/srt_slicer/srt_utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GPT-SoVITS-Inference/GPT-SoVITS-Inference/tools/srt_slicer/webui.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GPT-SoVITS-Inference/GPT-SoVITS-Inference/tools/subfix_webui.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GPT-SoVITS-Inference/GPT-SoVITS-Inference/tools/uvr5/lib/lib_v5/dataset.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GPT-SoVITS-Inference/GPT-SoVITS-Inference/tools/uvr5/lib/lib_v5/layers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GPT-SoVITS-Inference/GPT-SoVITS-Inference/tools/uvr5/lib/lib_v5/layers_123812KB.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GPT-SoVITS-Inference/GPT-SoVITS-Inference/tools/uvr5/lib/lib_v5/layers_123821KB.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GPT-SoVITS-Inference/GPT-SoVITS-Inference/tools/uvr5/lib/lib_v5/layers_33966KB.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GPT-SoVITS-Inference/GPT-SoVITS-Inference/tools/uvr5/lib/lib_v5/layers_537227KB.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GPT-SoVITS-Inference/GPT-SoVITS-Inference/tools/uvr5/lib/lib_v5/layers_537238KB.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GPT-SoVITS-Inference/GPT-SoVITS-Inference/tools/uvr5/lib/lib_v5/layers_new.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GPT-SoVITS-Inference/GPT-SoVITS-Inference/tools/uvr5/lib/lib_v5/model_param_init.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GPT-SoVITS-Inference/GPT-SoVITS-Inference/tools/uvr5/lib/lib_v5/modelparams/1band_sr16000_hl512.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GPT-SoVITS-Inference/GPT-SoVITS-Inference/tools/uvr5/lib/lib_v5/modelparams/1band_sr32000_hl512.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GPT-SoVITS-Inference/GPT-SoVITS-Inference/tools/uvr5/lib/lib_v5/modelparams/1band_sr33075_hl384.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GPT-SoVITS-Inference/GPT-SoVITS-Inference/tools/uvr5/lib/lib_v5/modelparams/1band_sr44100_hl1024.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GPT-SoVITS-Inference/GPT-SoVITS-Inference/tools/uvr5/lib/lib_v5/modelparams/1band_sr44100_hl256.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GPT-SoVITS-Inference/GPT-SoVITS-Inference/tools/uvr5/lib/lib_v5/modelparams/1band_sr44100_hl512.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GPT-SoVITS-Inference/GPT-SoVITS-Inference/tools/uvr5/lib/lib_v5/modelparams/1band_sr44100_hl512_cut.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GPT-SoVITS-Inference/GPT-SoVITS-Inference/tools/uvr5/lib/lib_v5/modelparams/2band_32000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GPT-SoVITS-Inference/GPT-SoVITS-Inference/tools/uvr5/lib/lib_v5/modelparams/2band_44100_lofi.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GPT-SoVITS-Inference/GPT-SoVITS-Inference/tools/uvr5/lib/lib_v5/modelparams/2band_48000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GPT-SoVITS-Inference/GPT-SoVITS-Inference/tools/uvr5/lib/lib_v5/modelparams/3band_44100.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GPT-SoVITS-Inference/GPT-SoVITS-Inference/tools/uvr5/lib/lib_v5/modelparams/3band_44100_mid.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GPT-SoVITS-Inference/GPT-SoVITS-Inference/tools/uvr5/lib/lib_v5/modelparams/3band_44100_msb2.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GPT-SoVITS-Inference/GPT-SoVITS-Inference/tools/uvr5/lib/lib_v5/modelparams/4band_44100.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GPT-SoVITS-Inference/GPT-SoVITS-Inference/tools/uvr5/lib/lib_v5/modelparams/4band_44100_mid.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GPT-SoVITS-Inference/GPT-SoVITS-Inference/tools/uvr5/lib/lib_v5/modelparams/4band_44100_msb.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GPT-SoVITS-Inference/GPT-SoVITS-Inference/tools/uvr5/lib/lib_v5/modelparams/4band_44100_msb2.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GPT-SoVITS-Inference/GPT-SoVITS-Inference/tools/uvr5/lib/lib_v5/modelparams/4band_44100_reverse.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GPT-SoVITS-Inference/GPT-SoVITS-Inference/tools/uvr5/lib/lib_v5/modelparams/4band_44100_sw.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GPT-SoVITS-Inference/GPT-SoVITS-Inference/tools/uvr5/lib/lib_v5/modelparams/4band_v2.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GPT-SoVITS-Inference/GPT-SoVITS-Inference/tools/uvr5/lib/lib_v5/modelparams/4band_v2_sn.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GPT-SoVITS-Inference/GPT-SoVITS-Inference/tools/uvr5/lib/lib_v5/modelparams/4band_v3.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GPT-SoVITS-Inference/GPT-SoVITS-Inference/tools/uvr5/lib/lib_v5/modelparams/ensemble.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GPT-SoVITS-Inference/GPT-SoVITS-Inference/tools/uvr5/lib/lib_v5/nets.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GPT-SoVITS-Inference/GPT-SoVITS-Inference/tools/uvr5/lib/lib_v5/nets_123812KB.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GPT-SoVITS-Inference/GPT-SoVITS-Inference/tools/uvr5/lib/lib_v5/nets_123821KB.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GPT-SoVITS-Inference/GPT-SoVITS-Inference/tools/uvr5/lib/lib_v5/nets_33966KB.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GPT-SoVITS-Inference/GPT-SoVITS-Inference/tools/uvr5/lib/lib_v5/nets_537227KB.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GPT-SoVITS-Inference/GPT-SoVITS-Inference/tools/uvr5/lib/lib_v5/nets_537238KB.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GPT-SoVITS-Inference/GPT-SoVITS-Inference/tools/uvr5/lib/lib_v5/nets_61968KB.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GPT-SoVITS-Inference/GPT-SoVITS-Inference/tools/uvr5/lib/lib_v5/nets_new.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GPT-SoVITS-Inference/GPT-SoVITS-Inference/tools/uvr5/lib/lib_v5/spec_utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GPT-SoVITS-Inference/GPT-SoVITS-Inference/tools/uvr5/lib/name_params.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GPT-SoVITS-Inference/GPT-SoVITS-Inference/tools/uvr5/lib/utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GPT-SoVITS-Inference/GPT-SoVITS-Inference/tools/uvr5/mdxnet.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GPT-SoVITS-Inference/GPT-SoVITS-Inference/tools/uvr5/uvr5_weights/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GPT-SoVITS-Inference/GPT-SoVITS-Inference/tools/uvr5/vr.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GPT-SoVITS-Inference/GPT-SoVITS-Inference/tools/uvr5/webui.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GPT-SoVITS-Inference/GPT-SoVITS-Inference/webuis/builders/gradio_builder.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GPT-SoVITS-Inference/GPT-SoVITS-Inference/webuis/character_manager/i18n/locale/en_US.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GPT-SoVITS-Inference/GPT-SoVITS-Inference/webuis/character_manager/i18n/locale/zh_CN.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GPT-SoVITS-Inference/GPT-SoVITS-Inference/webuis/character_manager/i18n/locale/zh_TW.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GPT-SoVITS-Inference/GPT-SoVITS-Inference/webuis/character_manager/webui.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Script/CustomMessageBox.py" beforeDir="false" afterPath="$PROJECT_DIR$/Script/CustomMessageBox.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Script/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Script/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Script/tts.py" beforeDir="false" afterPath="$PROJECT_DIR$/Script/tts.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,18 +276,18 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "POI-belive"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;POI-belive&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/POI-belive/superPeople.git",
-    "accountId": "fbc11380-14d8-4027-b46b-2c603601eefc"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/POI-belive/superPeople.git&quot;,
+    &quot;accountId&quot;: &quot;fbc11380-14d8-4027-b46b-2c603601eefc&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 8
 }</component>
@@ -46,16 +299,16 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "Python.main.executor": "Run",
-    "Python.tts.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "D:/demo/test_06/superPeople"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.tts.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/demo/test_06/superPeople&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\demo\test_06\superPeople\data" />
@@ -165,8 +418,18 @@
     <option featureType="com.intellij.fileTypeFactory" implementationName="*.bat" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
+    <option name="OPEN_GENERIC_TABS">
+      <map>
+        <entry key="6603025f-89ee-4572-ba5e-f6bd4ec51a3d" value="TOOL_WINDOW" />
+      </map>
+    </option>
     <option name="TAB_STATES">
       <map>
+        <entry key="6603025f-89ee-4572-ba5e-f6bd4ec51a3d">
+          <value>
+            <State />
+          </value>
+        </entry>
         <entry key="MAIN">
           <value>
             <State>
